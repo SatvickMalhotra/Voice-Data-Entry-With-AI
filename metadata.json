@@ -1,0 +1,7 @@
+{
+  "name": "Mswasth Data Entry Portal",
+  "description": "A user-friendly portal for quick and accurate entry of customer and policy information, featuring AI-powered autofill from images, voice dictation, and comprehensive data management tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
